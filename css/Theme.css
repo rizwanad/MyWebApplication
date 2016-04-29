@@ -1,0 +1,23 @@
+.carousel-caption{
+	z-index:10;
+}
+.carousel-inner > .item > img {
+	position: absolute;
+	top:50px;
+	left:0px;
+	min-width: 100%;
+	min-height: auto;
+}
+.carousel-inner > .item{
+	height :500px;
+}
+
+hr{
+	border-top: 1px solid #c9c9c9;
+}
+.tpad{
+	padding-top : 20px;
+}
+.padded{
+	padding:100px 15px;
+}
